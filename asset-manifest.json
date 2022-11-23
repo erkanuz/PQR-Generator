@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PQR-Generator/static/css/main.f296bc4e.css",
+    "main.js": "/PQR-Generator/static/js/main.a9c6da61.js",
+    "index.html": "/PQR-Generator/index.html",
+    "main.f296bc4e.css.map": "/PQR-Generator/static/css/main.f296bc4e.css.map",
+    "main.a9c6da61.js.map": "/PQR-Generator/static/js/main.a9c6da61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f296bc4e.css",
+    "static/js/main.a9c6da61.js"
+  ]
+}
